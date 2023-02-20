@@ -15,5 +15,3 @@ $ yarn install
 yarn start:dev
 ```
 
-# License & copyright
-Licensed under the [MIT LICENSE](LICENSE).
