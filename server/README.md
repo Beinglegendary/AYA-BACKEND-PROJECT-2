@@ -16,6 +16,4 @@ yarn start:dev
 ```
 
 # License & copyright
-
-© Kirin Tran, FPT University TP.HCM
 Licensed under the [MIT LICENSE](LICENSE).
